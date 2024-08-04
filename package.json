@@ -1,0 +1,20 @@
+{
+  "name": "blogdecafe_inicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node foo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jean-Abiad/Blog-Caf-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jean-Abiad/Blog-Caf-/issues"
+  },
+  "homepage": "https://github.com/Jean-Abiad/Blog-Caf-#readme"
+}
